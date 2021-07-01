@@ -1,3 +1,6 @@
 .idea/
+mysite/mysite/__pycache__/
+
 Pipfile
 Pipfile.lock
+mysite/db.sqlite3
